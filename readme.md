@@ -12,6 +12,10 @@ Using Trial Fabric license to develop a Fabric solution including:
 ## Data Source
 https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
+## Kaggle Credentials require for download
+KAGGLE_USERNAME=your_actual_username
+KAGGLE_KEY=your_actual_key
+
 ## Core Objectives:
 
 Ingestion: Automated data retrieval from Kaggle via API.Processing:
